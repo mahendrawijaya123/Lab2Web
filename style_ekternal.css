@@ -1,0 +1,41 @@
+nav{
+    background: blue ; 
+    color: red;
+    padding: 15px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 20px;
+}
+nav .active,
+nav a:hover{
+    background: #a4133c;
+    border-radius: 4px;
+}
+/* ID SELECTOR */
+#intro{
+    background: #fed9b7;
+    border: 1px solid #f94144;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1{
+    text-align: left;
+    border: 0;
+    color: #f25c54;
+}
+/* class selector */
+.btn{
+
+    padding: 15px 20px;
+    background: gainsboro;
+    color: red;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.btn-primary{
+    background: blue;
+    
+}
