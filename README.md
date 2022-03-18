@@ -150,3 +150,5 @@ nav a:hover{
 }
 ```
 
+# Ini jawaban Soal Pertanyaan
+1. jnrgonsgonsgou
